@@ -1,0 +1,2 @@
+this is a forth file
+lets add it and commit
